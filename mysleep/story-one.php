@@ -120,7 +120,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletone/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
+						<img src="images/stories/tabletone/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
 						<h5>Massive oil tanker crashes, causes destruction</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>March 24, 1989</b></h6>
@@ -143,31 +143,31 @@ if ($numRow>0) {
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletone/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletone/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Within three days, the surface of Prince William Sound, a beautiful marine habitat with abundant sea life, was covered by heavy sheens of oil. Then, a storm hit.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletone/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletone/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>The storm’s winds and high tides pushed large amounts of oil high up onto the rocky beaches and shores of islands and the coastline. Pools of black oil were stranded in the rocks.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletone/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletone/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Response to the emergency was difficult because Prince William Sound is a remote location, accessible only by helicopter, plane, or boat. By the time the leak was stopped, the oil covered 1,300 miles of coastline and 11,000 square miles of ocean.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletone/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletone/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Response teams tried using chemicals to disperse the oil and high pressure hot water hoses to clean up the shore, but they didn't work and caused even more damage to the plant and animal communities.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletone/tab2_5.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletone/tab2_5.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Orcas, seals, otters, bald eagles, hundreds of thousands of seabirds, shellfish and salmon, which flourished in this remote region, perished in the oil. Thirty years later, the ecosystem has still not fully recovered.</h5>
 								</div>
@@ -203,7 +203,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletone/tab4.png" class="img-responsive" style="margin-bottom:1em;">
+						<img src="images/stories/tabletone/tab4.png" class="img-responsive" style="margin-bottom:1em;">
 						<h5>Exxon Valdez spill cleanup slow</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>March 4, 1990</b></h6>

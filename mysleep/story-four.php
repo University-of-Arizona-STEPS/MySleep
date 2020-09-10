@@ -115,7 +115,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletfour/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
+						<img src="images/stories/tabletfour/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
 						<h5>Disaster at Three Mile Island nuclear power facility</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>March 28, 1979</b></h6>
@@ -138,25 +138,25 @@ if ($numRow>0) {
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfour/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfour/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Before the Three Mile Island accident, nuclear power promised a future of cheap, clean energy. Unlike greenhouse gases and pollutants that are released from coal and oil-fueled power plants, the smoke from nuclear power plants is water vapor.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfour/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfour/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>A series of undetected minor mechanical failures, including a valve stuck in the open position, changed that. A light on the control panel indicated that the valve closed, so the plant operators were not aware that a much more serious problem was developing.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfour/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfour/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>The open valve allowed the coolant required to keep the nuclear fuel rods at the right temperature to drain out of the reactor. In the early morning, workers at the end of their all-night shifts, did not notice the dropping coolant levels. The nuclear reactor’s core began to melt and release radiation.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfour/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfour/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>The reactor was shut down before a much worse accident occurred, but it cost nearly $1 billion dollars and 12 years of cleanup work to remove the radioactive contamination. The cost and fear of disaster ended construction of nuclear power plants in the U.S. for some time.</h5>
 								</div>
@@ -190,7 +190,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletfour/tab4.png" class="img-responsive" style="margin-bottom:1em;">
+						<img src="images/stories/tabletfour/tab4.png" class="img-responsive" style="margin-bottom:1em;">
 						<h5>Three Mile Island nuclear reactor disaster determined</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>October 30, 1979</b></h6>

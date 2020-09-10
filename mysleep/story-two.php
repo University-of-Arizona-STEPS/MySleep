@@ -124,7 +124,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tablettwo/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
+						<img src="images/stories/tablettwo/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
 						<h5>Google named best place to work</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>April 11, 2016</b></h6>
@@ -148,25 +148,25 @@ if ($numRow>0) {
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tablettwo/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tablettwo/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Google wants its employees to meet, greet and collaborate with each other. New ideas are hatched and problems solved when people share meals and interests and relax together.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tablettwo/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tablettwo/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Workers are encouraged to take time for themselves and even sleep on the job!  Sleep stations block outside noise and light to provide perfect environments for naps.  Relaxing music, gradual lighting changes and gentle vibrations wake sleepers gently, and they emerge refreshed and energized.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tablettwo/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tablettwo/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Figuring out how to motivate people and support creative thinking is important in a company that develops new ideas and technologies ahead of others.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tablettwo/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tablettwo/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Google thinks that fun, food, exercise, and rest make workers happier and more productive. Their employees love their jobs and believe their work makes the world a better place.</h5>
 								</div>
@@ -200,7 +200,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tablettwo/tab4.png" class="img-responsive" style="margin-bottom:1em;">
+						<img src="images/stories/tablettwo/tab4.png" class="img-responsive" style="margin-bottom:1em;">
 						<h5>Google develops work program, increases productivity</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>June 23, 2016</b></h6>

@@ -115,7 +115,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletthree/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
+						<img src="images/stories/tabletthree/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
 						<h5>Cause of space shuttle disaster unknown</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>January 28, 1986</b></h6>
@@ -138,25 +138,25 @@ if ($numRow>0) {
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletthree/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletthree/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>The crew of the Challenger space shuttle mission included Christa McAuliffe (second from left in back row), a high school teacher.  She was selected from over 1,100 applicants to be the first to teach lessons from space.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletthree/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletthree/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Low air temperatures and high wind speeds caused freezing conditions the night before the launch. The water supply lines were left open at a slow “trickle” to prevent the line from bursting. By morning, icicles had formed on the launch pad and service tower.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletthree/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletthree/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Engineers warned that there was a risk of equipment failure due to the cold temperatures. Their supervisors overruled their concerns. Mission control managers, who had been working long and irregular hours in preparation for the launch and all through the previous night, did not want to delay the launch.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletthree/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletthree/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Just 59 seconds into flight, a large flame plume can be seen just above the solid rocket booster exhaust nozzle, indicating a rupture in the motor casing. The fuel tank exploded 20 seconds later.</h5>
 								</div>
@@ -190,7 +190,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletthree/tab4.png" class="img-responsive" style="margin-bottom:1em;">
+						<img src="images/stories/tabletthree/tab4.png" class="img-responsive" style="margin-bottom:1em;">
 						<h5>Presidential Report: Challenger disaster preventable</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>June 9, 1986</b></h6>

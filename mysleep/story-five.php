@@ -115,7 +115,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletfive/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
+						<img src="images/stories/tabletfive/tab1.png" class="img-responsive" style="margin-bottom:1em;min-width:100%;">
 						<h5>Sleepy students, early school start times</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>June 7, 2014</b></h6>
@@ -138,25 +138,25 @@ if ($numRow>0) {
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfive/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfive/tab2_1.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>It is not surprising that researchers have found that students do better in school when they have well-trained teachers. But other factors are important too. Healthy school lunches, physical education, and increased participation in after school activities all have been shown to contribute to student success. But what about school start times?</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfive/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfive/tab2_2.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>A study conducted in 2007 found that later school start times decreased tardiness. Specifically, early-starting middle schools had four times the rates of tardiness than in late-starting middle schools. A more recent study found similar results for high school students.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfive/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfive/tab2_3.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Delayed start times likely enable students to receive more sleep. One study found that delaying school start time by 30 minutes increased students’ sleep by an average of 45 minutes.</h5>
 								</div>
 							    </div>
 							    <div class="item">
-								<img src="images/story/tabletfive/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
+								<img src="images/stories/tabletfive/tab2_4.png" alt="Awesome Image" style="min-width: 100%; height: 500px;">
 								<div class="carousel-caption">
 								    <h5>Researchers have also found that car crash rates for teenagers dropped by 16.5% after their high school delayed its school start time. Additionally, fewer students report being unhappy or depressed when starting school later.</h5>
 								</div>
@@ -190,7 +190,7 @@ if ($numRow>0) {
 						height: 16px;
 					     }</style>
                                             <div class="newspaper" style="position:relative;padding:0 0 32px 0;background-image: url('assets/img/paper-bkg.png');padding:1.3em;">
-						<img src="images/story/tabletfive/tab4.png" class="img-responsive" style="margin-bottom:1em;">
+						<img src="images/stories/tabletfive/tab4.png" class="img-responsive" style="margin-bottom:1em;">
 						<h5>School delayed start findings published</h5>
 						<div style="column-count:2;margin-bottom:2em;">
 						    <h6><b>August 12, 2015</b></h6>
