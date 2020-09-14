@@ -41,7 +41,7 @@ if ($numRow>0) {
         <title>MySleep //Predicating Sleep Needs</title>
 	<style type="text/css">
 	 .content{
-	     height: 80px;
+	     height: 140px;
 	 }
 	 .firstLine{
 	     height: 80px;
@@ -85,7 +85,7 @@ if ($numRow>0) {
 		    </div>
 
 		    <div class="row" style="padding-top: 1em;">
-			<table id="left-table" class="col-md-5 col-sm-5 col-xs-5">
+			<table id="left-table" class="col-md-4 col-sm-4 col-xs-4">
 			    <thead>
 				<tr class="firstLine">
 				    <th class="col-md-2 col-sm-2 col-xs-2">Age Range Cards</th><th class="col-md-1 col-sm-1 col-xs-1">&nbsp</th><th class="col-md-2 col-sm-2 col-xs-2">Sleep Duration Cards</th>
@@ -154,10 +154,10 @@ if ($numRow>0) {
 				</tr>
 			    </tbody>
 			</table>
-			<table id="left-table" class="col-md-offset-2 col-md-5 col-sm-offset-2 col-sm-5 col-xs-offset-2 col-xs-5">
+			<table id="left-table" class="col-md-offset-2 col-md-4 col-sm-offset-2 col-sm-4 col-xs-offset-2 col-xs-4">
 			    <thead>
 				<tr class="firstLine">
-				    <th class="col-md-2 col-sm-2 col-xs-2">Age Range</th><th class="col-md-1 col-sm-1 col-xs-1">&nbsp</th><th class="col-md-2 col-sm-2 col-xs-2">Recommended Sleep Duration</th>
+				    <th class="col-md-2 col-sm-2 col-xs-2">Age Range</th><th class="col-md-1 col-sm-1 col-xs-1">&nbsp</th><th class="col-md-1 col-sm-1 col-xs-1">Recommended Sleep Duration</th>
 				</tr>
 			    </thead>
 			    <tbody>
@@ -315,34 +315,34 @@ if ($numRow>0) {
 
 	 function getBackground(index) {
 	     if (index==0) {
-		 backgroundURL = "url('images/lessonone_5th/hour_1.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_1.png')";
 	     }else if (index==1) {
-		 backgroundURL = "url('images/lessonone_5th/hour_2.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_2.png')";
 	     }else if (index==2) {
-		 backgroundURL = "url('images/lessonone_5th/hour_3.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_3.png')";
 	     }else if (index==3) {
-		 backgroundURL = "url('images/lessonone_5th/hour_4.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_4.png')";
 	     }else if (index==4) {
-		 backgroundURL = "url('images/lessonone_5th/hour_5.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_5.png')";
 	     }else if (index==5) {
-		 backgroundURL = "url('images/lessonone_5th/hour_6.png')";
+		 backgroundURL = "url('images/fifthgrade/hour_6.png')";
 	     }
 	     return backgroundURL;
 	 }
 
 	 function getAgeBackground(index){
 	     if (index==0) {
-		 backgroundURL = "url('images/lessonone_5th/age_1.png')";
+		 backgroundURL = "url('images/fifthgrade/age_1.png')";
 	     }else if (index==1) {
-		 backgroundURL = "url('images/lessonone_5th/age_2.png')";
+		 backgroundURL = "url('images/fifthgrade/age_2.png')";
 	     }else if (index==2) {
-		 backgroundURL = "url('images/lessonone_5th/age_3.png')";
+		 backgroundURL = "url('images/fifthgrade/age_3.png')";
 	     }else if (index==3) {
-		 backgroundURL = "url('images/lessonone_5th/age_4.png')";
+		 backgroundURL = "url('images/fifthgrade/age_4.png')";
 	     }else if (index==4) {
-		 backgroundURL = "url('images/lessonone_5th/age_5.png')";
+		 backgroundURL = "url('images/fifthgrade/age_5.png')";
 	     }else if (index==5) {
-		 backgroundURL = "url('images/lessonone_5th/age_6.png')";
+		 backgroundURL = "url('images/fifthgrade/age_6.png')";
 	     }
 	     return backgroundURL;
 	 }
